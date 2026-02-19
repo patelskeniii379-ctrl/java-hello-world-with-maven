@@ -25,7 +25,7 @@
          <distributionManagement>
         
         <snapshotRepository>
-            <id>Maven_sp</id> 
+            <id>mv</id> 
             <url>http://192.168.0.42:8081/repository/Maven_sp/</url>
         </snapshotRepository>
     </distributionManagement>   
