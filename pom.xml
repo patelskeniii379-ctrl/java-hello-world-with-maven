@@ -22,7 +22,14 @@
            </dependency>
        </dependencies>
        <!-- end::joda[] -->
-       
+         <distributionManagement>
+        
+        <snapshotRepository>
+            <id>Project1</id> 
+            <url>http://192.168.0.42:8081/repository/Project1/</url>
+        </snapshotRepository>
+    </distributionManagement>   
+    
     <build>
         <plugins>
             <plugin>
