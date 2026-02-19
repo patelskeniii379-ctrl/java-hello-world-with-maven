@@ -24,10 +24,10 @@
        <!-- end::joda[] -->
          <distributionManagement>
         
-        <Repository>
+        <repository>
             <id>mv</id> 
             <url>http://192.168.0.42:8081/repository/Maven_sp/</url>
-        </Repository>
+        </repository>
     </distributionManagement>   
     
     <build>
